@@ -4,7 +4,6 @@ import Photo from "../components/Photo";
 import Entete from "../components/Entete";
 import AutresSports from '../components/AutresSports';
 import Tableau from '../components/Tableau';
-import "../styles/style.css";
 
 const Home =()=>{
     return(
