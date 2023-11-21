@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from "react-router-dom";
-import "../styles/style.css";
+import "../styles/photo.css";
 
 const Photo = () =>{
     return(
