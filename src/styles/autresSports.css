@@ -2,9 +2,9 @@
 
 .autres {
   font-family: 'Arial', sans-serif;
-  background-color: #ecf2ff; /* Bleu presque blanc */
-  padding: 10px; /* Réduire la marge intérieure */
-  text-align: center; /* Centrer le texte horizontalement */
+  background-color: #ecf2ff; 
+  padding: 10px;
+  text-align: center; 
 }
 
 ul {

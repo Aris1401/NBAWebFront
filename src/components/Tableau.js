@@ -28,6 +28,7 @@ const Tableau = () =>{
             <td>A</td>
      
           </tr>
+
         </table>
       </div>
     );

@@ -15,15 +15,15 @@ ul {
 
 ul li {
   display: inline-block;
-  margin: 0 20px; /* Espacement entre les éléments de l'en-tête */
-  font-size: 20px; /* Taille du texte légèrement augmentée */
+  margin: 0 20px; 
+  font-size: 20px;
 }
 
 ul li a {
   text-decoration: none;
   color: #fff;
   transition: color 0.3s ease-in-out;
-  font-weight: bold; /* Mettre le texte en gras */
+  font-weight: bold;
 }
 
 ul li a:hover {
