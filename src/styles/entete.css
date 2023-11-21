@@ -1,31 +1,31 @@
-/* style.css */
+/* styles.css */
 
 .entete {
-    font-family: 'Helvetica Neue', sans-serif;
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-  }
-  
-  ul {
-    list-style: none;
-    padding: 0;
-  }
-  
-  ul li {
-    display: inline-block;
-    margin-right: 20px;
-    font-size: 18px;
-  }
-  
-  ul li a {
-    text-decoration: none;
-    color: #fff;
-    transition: color 0.3s ease-in-out;
-  }
-  
-  ul li a:hover {
-    color: #ffcc00;
-    font-weight: bold;
-  }
-  
+  font-family: 'Helvetica Neue', sans-serif;
+  background: linear-gradient(to right, #1e5799, #2989d8);
+  color: #fff;
+  padding: 20px;
+  text-align: center; /* Centrer le texte horizontalement */
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+  margin: 0 20px; /* Espacement entre les éléments de l'en-tête */
+  font-size: 20px; /* Taille du texte légèrement augmentée */
+}
+
+ul li a {
+  text-decoration: none;
+  color: #fff;
+  transition: color 0.3s ease-in-out;
+  font-weight: bold; /* Mettre le texte en gras */
+}
+
+ul li a:hover {
+  color: #87CEFA;
+}
