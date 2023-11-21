@@ -1,0 +1,12 @@
+/* style.css */
+
+.logo {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .logo img {
+    max-width: 200px; /* Ajustez la largeur maximale de votre logo */
+    height: auto;
+  }
+  

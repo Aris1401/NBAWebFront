@@ -1,0 +1,31 @@
+/* style.css */
+
+.entete {
+    font-family: 'Helvetica Neue', sans-serif;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 18px;
+  }
+  
+  ul li a {
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  ul li a:hover {
+    color: #ffcc00;
+    font-weight: bold;
+  }
+  
